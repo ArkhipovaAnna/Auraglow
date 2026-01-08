@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --accent: #031622;
+    --back: #08263F;
+}
+
+body {
+    font-family: "Roboto", "Poly", sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    padding: 0 70px;
+    margin: 0 auto;
+}
