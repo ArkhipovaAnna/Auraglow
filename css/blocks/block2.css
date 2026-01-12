@@ -1,0 +1,40 @@
+.block2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 60px;
+    background-color: #EDF3F6;
+    text-align: center;
+}
+
+.block2 h2 {
+    margin-top: 68px;
+    font-size: 36px;
+    line-height: 1.1;
+    color: var(--accent);
+}
+
+.block2-segments {
+    display: flex;
+    margin-bottom: 92px;
+    justify-content: center;
+    column-gap: 15px;
+}
+
+.block2-segments .segment {
+    width: 310px;
+}
+
+.block2-segments .segment h3 {
+    margin-top: 20px;
+    margin-bottom: 33px;
+    font-size: 24px;
+    color: var(--accent);
+}
+
+.block2-segments .segment p {
+    padding: 0 14px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--accent);
+}
