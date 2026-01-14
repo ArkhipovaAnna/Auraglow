@@ -1,0 +1,16 @@
+.block4 {
+    display: flex;
+    padding: 131px 296px 236px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    row-gap: 29px;
+    background-color: #EDF3F6;
+}
+
+.block4 p {
+    font-size: 36px;
+    line-height: 1.1;
+    color: var(--accent);
+}
