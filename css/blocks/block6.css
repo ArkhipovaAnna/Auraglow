@@ -8,7 +8,7 @@
 
 .block6-top {
     height: 620px;
-    background-image: url(/img/5block/1.png);
+    background-image: url(img/5block/1.png);
     background-repeat: no-repeat;
 }
 
@@ -37,7 +37,7 @@
 
 .block6-bottom {
     height: 620px;
-    background-image: url(/img/5block/2.png);
+    background-image: url(img/5block/2.png);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
